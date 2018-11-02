@@ -1,3 +1,3 @@
 # README 
 
-![](lights_size.gif)
+![](Pics/lights_size.gif)
